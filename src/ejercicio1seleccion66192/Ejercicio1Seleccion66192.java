@@ -11,6 +11,7 @@ import java.util.Scanner;
  * @author acs
  */
 public class Ejercicio1Seleccion66192 {
+    
 
     public static void main(String[] args) {
         Scanner datos = new Scanner(System.in);
