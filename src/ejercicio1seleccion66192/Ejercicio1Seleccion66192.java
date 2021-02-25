@@ -12,9 +12,6 @@ import java.util.Scanner;
  */
 public class Ejercicio1Seleccion66192 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Scanner datos = new Scanner(System.in);
     
